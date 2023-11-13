@@ -1,0 +1,62 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'TheJamsil';
+  }
+  
+  .login-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: 'TheJamsil';
+  }
+  
+  input {
+    width: 600px;
+    height: 80px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: 'TheJamsil';
+  }
+
+  .yt button:hover {
+    background-color: #0056b3;
+    font-family: 'TheJamsil';
+  }
+  .yt button {
+    margin-left: 2080px;
+    margin-top: 50px;
+    margin-right: 1500px;
+    margin-bottom: 100px;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'TheJamsil';
+  }
+
+  h2 {
+    font-size: 24px; /* 원하는 글꼴 크기로 설정 */
+    font-family: 'TheJamsil';
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    font-size: 50px; /* 원하는 글꼴 크기로 설정 */
+    font-family: 'TheJamsil';
+  }
+
+  h1{
+    font-size: 50px;
+    font-family: 'TheJamsil';
+  }
